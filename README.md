@@ -79,7 +79,7 @@ We have developed a simple web application for the search engine using Dash, a P
 
 The web application can be accessed locally at the following URL: [http://127.0.0.1:8050/](http://127.0.0.1:8050/)
 
-![Web Application Interface](screenshot/app.png)
+![Web Application Interface](screenshots/app.png)
 
 
 ### Features
