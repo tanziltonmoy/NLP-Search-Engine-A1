@@ -93,7 +93,3 @@ To run the application on your local machine, ensure you have Dash installed and
 
 ```bash
 pip install dash
-
-## Conclusion
-
-The project demonstrates the application of various word embedding models in creating an efficient search engine. Through the comparison of different models, we identify the strengths and weaknesses of each approach, with the pre-trained GloVe model showing significant advantages in terms of efficiency and accuracy in capturing word relationships.
